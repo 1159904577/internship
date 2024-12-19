@@ -1,7 +1,7 @@
 # DGA Domain List
 # The list contains four columns:
 # 	DGA family, Domian, Start and end of valid time(UTC)
-# 
+#
 # Feed Provided By: netlab 360
 # netlab@360.cn
 #
